@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootTest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: zkr
+Implementation-Vendor-Id: oracle
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
